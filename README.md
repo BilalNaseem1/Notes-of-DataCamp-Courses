@@ -1,1 +1,1 @@
-# Notes-of-DataCamp-Courses
+# Notes of DataCamp Courses
